@@ -1,0 +1,11 @@
+.env
+\venv
+\node_modules
+package-lock.json
+package.json
+__pycache__/
+.vscode/
+*.keys.json
+*_token.json
+!experiment_data/**
+all_models.json

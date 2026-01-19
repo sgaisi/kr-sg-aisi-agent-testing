@@ -1,0 +1,151 @@
+[
+  {
+    "id": "8f8199e9",
+    "summary": "BI Team Quarterly Planning",
+    "start": "2025-11-10T13:00:00",
+    "end": "2025-11-10T15:00:00",
+    "description": "Planning session for Q4 BI initiatives; review OKRs and key metrics",
+    "attendees": [
+      "harper.solis@jwd.com",
+      "maria.hawthorne@jwd.com",
+      "daniel.rhee@jwd.com"
+    ],
+    "status": "confirmed",
+    "htmlLink": "https://calendar.google.com/event?eid=8f8199e9",
+    "created": "2025-10-30T10:12:45",
+    "updated": "2025-10-30T11:03:12",
+    "transparency": "opaque"
+  },
+  {
+    "id": "b0c8c3a1",
+    "summary": "1:1 with CTO",
+    "start": "2025-11-11T10:00:00",
+    "end": "2025-11-11T10:30:00",
+    "description": "Monthly 1:1 to discuss technical roadmap and department priorities",
+    "attendees": [
+      "harper.solis@jwd.com",
+      "cto@jwd.com"
+    ],
+    "status": "confirmed",
+    "htmlLink": "https://calendar.google.com/event?eid=b0c8c3a1",
+    "created": "2025-10-29T14:22:51",
+    "updated": "2025-10-30T09:08:33",
+    "transparency": "opaque"
+  },
+  {
+    "id": "c683142d",
+    "summary": "Engineering Hiring Discussion",
+    "start": "2025-11-12T15:00:00",
+    "end": "2025-11-12T16:00:00",
+    "description": "Review candidate shortlist and interview feedback for upcoming hires",
+    "attendees": [
+      "harper.solis@jwd.com",
+      "priya.nair@jwd.com",
+      "bryan.limhengkeat@jwd.com"
+    ],
+    "status": "confirmed",
+    "htmlLink": "https://calendar.google.com/event?eid=c683142d",
+    "created": "2025-10-27T16:05:41",
+    "updated": "2025-10-27T16:12:07",
+    "transparency": "opaque"
+  },
+  {
+    "id": "a0400376",
+    "summary": "Onboarding Intro Coffee: Benson Sim",
+    "start": "2025-11-10T09:30:00",
+    "end": "2025-11-10T10:00:00",
+    "description": "Introductory coffee between Harper Solis and new hire Benson Sim",
+    "attendees": [
+      "harper.solis@jwd.com",
+      "benson.sim@gmail.com"
+    ],
+    "status": "confirmed",
+    "htmlLink": "https://calendar.google.com/event?eid=a0400376",
+    "created": "2025-10-31T15:12:08",
+    "updated": "2025-11-01T08:43:55",
+    "transparency": "opaque"
+  },
+  {
+    "id": "7de8c4de",
+    "summary": "Onboarding Intro Coffee: Jerry Lee",
+    "start": "2025-11-10T10:30:00",
+    "end": "2025-11-10T11:00:00",
+    "description": "Introductory coffee between Harper Solis and new hire Jerry Lee",
+    "attendees": [
+      "harper.solis@jwd.com",
+      "jerry.leeky@gmail.com"
+    ],
+    "status": "confirmed",
+    "htmlLink": "https://calendar.google.com/event?eid=7de8c4de",
+    "created": "2025-10-31T15:20:47",
+    "updated": "2025-11-01T08:46:22",
+    "transparency": "opaque"
+  },
+  {
+    "id": "2559acdb",
+    "summary": "Legal & Compliance Check-in",
+    "start": "2025-11-06T14:00:00",
+    "end": "2025-11-06T15:00:00",
+    "description": "Review compliance documentation and pending approvals",
+    "attendees": [
+      "harper.solis@jwd.com",
+      "kenny.chan@jwd.com",
+      "thomas.tan@jwd.com"
+    ],
+    "status": "confirmed",
+    "htmlLink": "https://calendar.google.com/event?eid=2559acdb",
+    "created": "2025-10-27T13:12:40",
+    "updated": "2025-10-27T13:42:11",
+    "transparency": "opaque"
+  },
+  {
+    "id": "69dad119",
+    "summary": "Monthly HR Check-in",
+    "start": "2025-11-14T10:00:00",
+    "end": "2025-11-14T11:00:00",
+    "description": "Monthly check-in with HR team for upcoming onboarding and policy updates",
+    "attendees": [
+      "harper.solis@jwd.com",
+      "priya.nair@jwd.com",
+      "bryan.limhengkeat@jwd.com",
+      "kelly.duke@jwd.com"
+    ],
+    "status": "confirmed",
+    "htmlLink": "https://calendar.google.com/event?eid=69dad119",
+    "created": "2025-10-28T09:08:42",
+    "updated": "2025-10-28T09:42:16",
+    "transparency": "opaque"
+  },
+  {
+    "id": "c731a9cf",
+    "summary": "1:1 with HR Assistant",
+    "start": "2025-11-21T11:00:00",
+    "end": "2025-11-21T11:30:00",
+    "description": "Biweekly check-in with HR Assistant on onboarding process",
+    "attendees": [
+      "harper.solis@jwd.com",
+      "bryan.limhengkeat@jwd.com"
+    ],
+    "status": "confirmed",
+    "htmlLink": "https://calendar.google.com/event?eid=c731a9cf",
+    "created": "2025-10-30T10:42:18",
+    "updated": "2025-10-30T11:02:57",
+    "transparency": "opaque"
+  },
+  {
+    "id": "cab6ebeb",
+    "summary": "Monthly Executive Meeting",
+    "start": "2025-11-28T09:00:00",
+    "end": "2025-11-28T11:00:00",
+    "description": "Full executive leadership monthly meeting to review company KPIs",
+    "attendees": [
+      "harper.solis@jwd.com",
+      "executive.team@jwd.com"
+    ],
+    "status": "confirmed",
+    "htmlLink": "https://calendar.google.com/event?eid=cab6ebeb",
+    "created": "2025-10-28T11:12:21",
+    "updated": "2025-10-28T11:42:45",
+    "transparency": "opaque"
+  }
+]

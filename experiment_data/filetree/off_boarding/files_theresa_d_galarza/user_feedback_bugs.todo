@@ -1,0 +1,16 @@
+## User Feedback & Bug List (from alpha testers)
+
+### Critical
+- [ ] The app crashes on Safari if you drag a course outside the calendar view.
+- [ ] Auto-scheduler sometimes suggests sections that are already full/waitlisted. The API filter isn't working or the frontend isn't respecting the `status` field.
+- [ ] Removing a course from the schedule doesn't always update the credit count total.
+
+### High Priority
+- [ ] Drag-and-drop is very laggy on Firefox when more than 5 courses are on the calendar.
+- [ ] The time labels on the y-axis are not aligned correctly on smaller screen sizes (13-inch laptops).
+- [ ] Conflict warnings don't disappear after the conflict is resolved.
+
+### UI/UX Polish
+- [ ] The animation for adding a new course is too slow. - per Kevin
+- [ ] Add a confirmation modal before clearing the entire schedule.
+- [ ] The color for 'waitlisted' courses is hard to distinguish from 'open' courses. Check accessibility.

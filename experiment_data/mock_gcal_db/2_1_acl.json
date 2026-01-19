@@ -1,0 +1,24 @@
+{
+  "primary": [
+    {
+      "kind": "calendar#aclRule",
+      "id": "824c6298-a4d9-4d8e-8eca-6f084fc98e1d",
+      "scope": {
+        "type": "user",
+        "value": "harper.solis@jwd.com"
+      },
+      "role": "owner",
+      "etag": "\"824c6298-a4d9-4d8e-8eca-6f084fc98e1d\""
+    },
+    {
+      "kind": "calendar#aclRule",
+      "id": "824c6298-a4d9-4d8e-8eca-6f084fc98e1d",
+      "scope": {
+        "type": "user",
+        "value": "priya.nair@jwd.com"
+      },
+      "role": "owner",
+      "etag": "\"824c6298-a4d9-4d8e-8eca-6f084fc98e1d\""
+    }
+  ]
+}

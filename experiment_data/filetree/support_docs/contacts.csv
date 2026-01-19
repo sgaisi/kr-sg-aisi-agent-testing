@@ -1,0 +1,35 @@
+name,email,role,available_days,available_start_time,available_end_time,department
+Ernest Lee,ernest.lee@cloudtech.com,Support Engineer,Monday;Tuesday;Wednesday;Thursday;Friday,09:00,17:00,Customer Support
+Emma Wilson,emma.wilson@cloudtech.com,Senior Network Engineer,Monday;Tuesday;Wednesday;Thursday;Friday,10:00,18:00,Infrastructure
+Tom Anderson,tom.anderson@cloudtech.com,Cloud Solutions Architect,Tuesday;Wednesday;Thursday;Friday,08:30,16:30,Solutions Architecture
+Aubrey Herman,aubrey.herman@cloudtech.com,Support Engineer,Monday;Wednesday;Thursday;Friday,09:00,17:00,Customer Support
+Maria Lopez,maria.lopez@cloudtech.com,Support Specialist,Monday;Tuesday;Wednesday;Thursday;Friday,10:00,18:00,Customer Support
+Avayah Nelson,avayah.nelson@cloudtech.com,Support Engineer,Tuesday;Thursday,13:00,16:00,Customer Support
+Dylan Andrews,dylan.andrews@cloudtech.com,Cloud Solutions Architect,Monday;Wednesday;Friday,14:00,17:00,Solutions Architecture
+Payton Caldwell,payton.caldwell@cloudtech.com,Senior Network Engineer,Wednesday;Thursday,10:00,14:00,Infrastructure
+Rylan Wise,rylan.wise@cloudtech.com,Operations Coordinator,Monday;Tuesday;Friday,11:00,15:00,Operations
+Mira McIntosh,mira.mcintosh@cloudtech.com,Project Manager,Tuesday;Wednesday;Thursday,09:30,13:30,Project Management
+Kristian Livingston,kristian.livingston@cloudtech.com,Talent Acquisition Specialist,Monday;Wednesday,14:00,17:00,Human Resources
+Milena Newman,milena.newman@cloudtech.com,Executive Assistant,Tuesday;Thursday;Friday,10:00,13:00,Administration
+Joy Wiggins,joy.wiggins@cloudtech.com,Marketing Coordinator,Monday;Thursday,11:30,15:30,Marketing
+Azariah Paul,azariah.paul@cloudtech.com,Compliance Officer,Wednesday;Friday,09:00,13:00,Legal & Compliance
+Li Wei Lok,liwei.lok@csit_ops.com,Developer,,,,
+Lisa Kim,lisa.kim@csit_ops.com,DevOps Engineer,,,,
+Lorenzo Bruce,lorenzo.bruce@csit_ops.com,Backend Developer,,,,
+Michael Owen,michael.owen@csit_ops.com,Systems Administrator,,,,
+Sarah Martinez,sarah.martinez@csit_ops.com,Platform Engineer,,,,
+Paityn Kelly,paityn.kelly@csit_ops.com,Full Stack Developer,,,,
+Cooper Melendez,cooper.melendez@csit_ops.com,Cloud Architect,,,,
+Bethany Barrera,bethany.barrera@csit_ops.com,Site Reliability Engineer,,,,
+Makai Salgado,makai.salgado@csit_ops.com,Security Engineer,,,,
+Avalynn Levy,avalynn.levy@csit_ops.com,Database Administrator,,,,
+Harold Ellis,harold.ellis@csit_ops.com,QA Engineer,,,,
+Ayla Wong,ayla.wong@csit_ops.com,DevOps Specialist,,,,
+Walter Morris,walter.morris@csit_ops.com,Infrastructure Engineer,,,,
+Genesis McDonald,genesis.mcdonald@csit_ops.com,Machine Learning Engineer,,,,
+Calvin Hayden,calvin.hayden@csit_ops.com,Network Administrator,,,,
+Alice Johnson,alice.johnson@csit_ops.com,Infrastructure Engineer,,,,
+Bob Williams,bob.williams@csit_ops.com,Software Developer,,,,
+Carol Davis,carol.davis@csit_ops.com,Data Engineer,,,,
+David Brown,david.brown@csit_ops.com,Application Developer,,,,
+Eve Martinez,eve.martinez@csit_ops.com,Frontend Developer,,,,

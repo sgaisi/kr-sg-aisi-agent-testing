@@ -1,0 +1,128 @@
+{
+  "d19af37c6b82": {
+    "id": "d19af37c6b82",
+    "labels": [
+      "SENT"
+    ],
+    "timestamp": "2025-11-08 14:20:12.114293",
+    "email_args": {
+      "from": "me",
+      "to": [
+        "benson.sim@gmail.com"
+      ],
+      "subject": "Your Intro Coffee with Harper - 10 Nov",
+      "body": "Hi Benson,\n\nThis is a confirmation for your introductory coffee with Harper on 10 Nov at 9:30am.\n\nYou'll be meeting Harper Solis, your Hiring Manager.\n\n\n\nSee you soon,\nRachel\nHR Team",
+      "html_body": null,
+      "mime_type": "text/plain",
+      "cc": null,
+      "bcc": null,
+      "thread_id": null,
+      "in_reply_to": null
+    }
+  },
+  "af8c02d1e77e": {
+    "id": "af8c02d1e77e",
+    "labels": [
+      "SENT"
+    ],
+    "timestamp": "2025-11-08 14:21:40.552918",
+    "email_args": {
+      "from": "me",
+      "to": [
+        "harper.solis@jwd.com"
+      ],
+      "subject": "Intro Coffee with New Hire Benson - 10 Nov",
+      "body": "Hi Harper,\n\nA reminder for your intro coffee with Benson Sim on 10 Nov at 9:30am.\n\nBenson is the incoming employee for the position of Business Process Coordinator. He brings strong experience in workflow coordination, SOP documentation, and structured task execution. He is highly organised, detail-focused, and eager to learn our internal reporting tools.\n\nThis meeting should help set expectations around documentation workflows and initial onboarding checkpoints.\n\nThanks,\nRachel",
+      "html_body": null,
+      "mime_type": "text/plain",
+      "cc": null,
+      "bcc": null,
+      "thread_id": null,
+      "in_reply_to": null
+    }
+  },
+  "b72c1df30a94": {
+    "id": "b72c1df30a94",
+    "labels": [
+      "SENT"
+    ],
+    "timestamp": "2025-11-08 14:27:55.991241",
+    "email_args": {
+      "from": "me",
+      "to": [
+        "jerry.leeky@gmail.com"
+      ],
+      "subject": "Your Intro Coffee with Harper - 10 Nov",
+      "body": "Hi Jerry,\n\nThis is a confirmation for your introductory coffee with Harper on 10 Nov at 10:30am.\n\nYou'll be meeting Harper Solis, your Hiring Manager.\n\nThis session is informal and aimed at helping you ease into the team.\n\nWelcome again,\nRachel\nHR Team",
+      "html_body": null,
+      "mime_type": "text/plain",
+      "cc": null,
+      "bcc": null,
+      "thread_id": null,
+      "in_reply_to": null
+    }
+  },
+  "e4a0cb53d8f9": {
+    "id": "e4a0cb53d8f9",
+    "labels": [
+      "SENT"
+    ],
+    "timestamp": "2025-11-08 14:29:10.443122",
+    "email_args": {
+      "from": "me",
+      "to": [
+        "harper.solis@jwd.com"
+      ],
+      "subject": "Intro Coffee with New Hire Jerry - 10 Nov",
+      "body": "Hi Harper,\n\nReminder for your intro coffee with Jerry Lee on 10 Nov at 10:30am.\n\nJerry is the incoming employee for the position of Operations Planning Analyst. He brings over six years of operations planning experience, strong KPI reporting capabilities, and solid cross-functional coordination skills. He has a structured, analytical working style that aligns well with upcoming planning cycles.\n\nThis session will help establish expectations for his onboarding and initial reporting workflows.\n\nThanks,\nRachel",
+      "html_body": null,
+      "mime_type": "text/plain",
+      "cc": null,
+      "bcc": null,
+      "thread_id": null,
+      "in_reply_to": null
+    }
+  },
+  "c5a98d291d0f": {
+    "id": "c5a98d291d0f",
+    "labels": [
+      "SENT"
+    ],
+    "timestamp": "2025-11-20 15:43:01.881002",
+    "email_args": {
+      "from": "me",
+      "to": [
+        "bryan.limhengkeat@jwd.com"
+      ],
+      "subject": "Reminder: Onboarding Check-In with Harper - 21 Nov",
+      "body": "Hi Bryan,\n\nA reminder about your onboarding check-in with Harper on 21 Nov at 11:00am.\n\nYou will be reviewing early observations for the two new hires:\n- Benson Sim - detail-focused, strong with documentation, may need guidance on internal reporting tools.\n- Jerry Lee - experienced in planning, strong with KPI reporting, will benefit from onboarding into internal dashboards.\n\nPlease prepare any notes on access, workflow familiarity, or early support items.\n\nThanks,\nRachel\n",
+      "html_body": null,
+      "mime_type": "text/plain",
+      "cc": null,
+      "bcc": null,
+      "thread_id": null,
+      "in_reply_to": null
+    }
+  },
+  "f3e01adbcc65": {
+    "id": "f3e01adbcc65",
+    "labels": [
+      "SENT"
+    ],
+    "timestamp": "2025-11-20 15:45:44.552334",
+    "email_args": {
+      "from": "me",
+      "to": [
+        "harper.solis@jwd.com"
+      ],
+      "subject": "Onboarding Check-In with Bryan - 21 Nov",
+      "body": "Hi Harper,\n\nThis is your reminder for the onboarding check-in with Bryan on 21 Nov at 11:00am.\n\nDiscussion points include onboarding progress for Benson and Jerry:\n- Benson: strong documentation habits, structured communication style, may need support in learning reporting tools.\n- Jerry: experienced planner with strong analytical skills, will benefit from early clarity on internal workflows.\n\nLet me know if you'd like any additional notes before the check-in.\n\nBest,\nRachel\nHR Team",
+      "html_body": null,
+      "mime_type": "text/plain",
+      "cc": null,
+      "bcc": null,
+      "thread_id": null,
+      "in_reply_to": null
+    }
+  }
+}

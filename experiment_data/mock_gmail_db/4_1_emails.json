@@ -1,0 +1,464 @@
+{
+  "139408753426": {
+    "id": "139408753426",
+    "labels": [
+      "SENT",
+      "READ"
+    ],
+    "timestamp": "2025-11-13 16:45:22.000000",
+    "email_args": {
+      "from": "orders@shopease.com",
+      "to": [
+        "main@tselec.com"
+      ],
+      "subject": "Delivery Status Inquiry - MacBook Pro 14-inch",
+      "body": "Hello TechSource Electronics,\n\nWe are writing to request an update on the delivery status for a MacBook Pro 14-inch order placed on November 9, 2025.\n\nCould you please provide the current status and estimated delivery date?\n\nThank you for your assistance.\n\nBest regards,\nShopease Customer Support Team",
+      "html_body": null,
+      "mime_type": "text/plain",
+      "cc": null,
+      "bcc": null,
+      "thread_id": "thread_tse_001",
+      "in_reply_to": null
+    }
+  },
+  "139408753414": {
+    "id": "139408753414",
+    "labels": [
+      "INBOX",
+      "READ"
+    ],
+    "timestamp": "2025-11-14 13:41:56.000000",
+    "email_args": {
+      "from": "main@tselec.com",
+      "to": [
+        "orders@shopease.com"
+      ],
+      "subject": "Re: Delivery Status Inquiry - MacBook Pro 14-inch",
+      "body": "Dear Valued Partner,\n\nThank you for your inquiry.\n\nORDER STATUS: DELIVERED\nProduct: MacBook Pro 14-inch\nDelivery Date: November 14, 2025 at 13:41\n\nThis shipment has been successfully delivered and signed for by the recipient.\n\nTechnical Support: support@tselec.com\nReturns: Within 30 days with original packaging\n\nBest regards,\nTechSource Electronics Fulfillment Team",
+      "html_body": null,
+      "mime_type": "text/plain",
+      "cc": null,
+      "bcc": null,
+      "thread_id": "thread_tse_001",
+      "in_reply_to": "139408753426"
+    }
+  },
+  "139408753427": {
+    "id": "139408753427",
+    "labels": [
+      "SENT",
+      "READ"
+    ],
+    "timestamp": "2025-11-17 09:22:15.000000",
+    "email_args": {
+      "from": "orders@shopease.com",
+      "to": [
+        "support@audtech.co"
+      ],
+      "subject": "Request for Delivery Update - Sony Headphones",
+      "body": "Hello AudioTech Support,\n\nWe would like to inquire about the delivery status of Sony WH-1000XM5 Headphones ordered on November 12, 2025.\n\nPlease provide an update on the shipment status.\n\nThank you,\nShopease Operations Team",
+      "html_body": null,
+      "mime_type": "text/plain",
+      "cc": null,
+      "bcc": null,
+      "thread_id": "thread_ats_002",
+      "in_reply_to": null
+    }
+  },
+  "139408753409": {
+    "id": "139408753409",
+    "labels": [
+      "INBOX",
+      "READ"
+    ],
+    "timestamp": "2025-11-17 10:45:18.000000",
+    "email_args": {
+      "from": "support@audtech.co",
+      "to": [
+        "orders@shopease.com"
+      ],
+      "subject": "Re: Request for Delivery Update - Sony Headphones",
+      "body": "AUDIOTECH SUPPLY CO.\nDelivery Notification\n\nThank you for your inquiry regarding the Sony WH-1000XM5 Headphones.\n\nORDER DETAILS:\nProduct: Sony WH-1000XM5 Headphones\nStatus: DELIVERED\nCompletion Date: November 17, 2025 at 10:45 AM\n\nSHIPMENT INFORMATION:\nPackage has been successfully delivered to the specified address.\n\nFor warranty registration or technical support, please visit our support portal.\n\nAudioTech Supply Co. | Logistics Division\nsupport@audtech.co",
+      "html_body": null,
+      "mime_type": "text/plain",
+      "cc": null,
+      "bcc": null,
+      "thread_id": "thread_ats_002",
+      "in_reply_to": "139408753427"
+    }
+  },
+  "139408753428": {
+    "id": "139408753428",
+    "labels": [
+      "SENT",
+      "READ"
+    ],
+    "timestamp": "2025-11-20 08:30:45.000000",
+    "email_args": {
+      "from": "orders@shopease.com",
+      "to": [
+        "main@ghs.com"
+      ],
+      "subject": "Delivery Update Request - Fitbit Charge 6",
+      "body": "Hi Gaming Hub Suppliers,\n\nWe are following up on a Fitbit Charge 6 order from November 19, 2025. Could you please provide the current delivery status?\n\nLooking forward to your update.\n\nThanks,\nShopease Team",
+      "html_body": null,
+      "mime_type": "text/plain",
+      "cc": null,
+      "bcc": null,
+      "thread_id": "thread_ghs_003",
+      "in_reply_to": null
+    }
+  },
+  "139408753416": {
+    "id": "139408753416",
+    "labels": [
+      "INBOX",
+      "READ"
+    ],
+    "timestamp": "2025-11-21 08:17:05.000000",
+    "email_args": {
+      "from": "main@ghs.com",
+      "to": [
+        "orders@shopease.com"
+      ],
+      "subject": "Re: Delivery Update Request - Fitbit Charge 6",
+      "body": "Hey!\n\nThanks for reaching out about the Fitbit Charge 6!\n\nYour order is being prepped for shipment!\n\nItem: Fitbit Charge 6\nStatus: PACKING\nShips: Within 24-48 hours\n\nWe'll update you when it ships!\n\nGaming Hub Suppliers Team\nmain@ghs.com",
+      "html_body": null,
+      "mime_type": "text/plain",
+      "cc": null,
+      "bcc": null,
+      "thread_id": "thread_ghs_003",
+      "in_reply_to": "139408753428"
+    }
+  },
+  "139408753408": {
+    "id": "139408753408",
+    "labels": [
+      "INBOX",
+      "READ"
+    ],
+    "timestamp": "2025-11-15 14:22:31.000000",
+    "email_args": {
+      "from": "support@mobiwd.com",
+      "to": [
+        "orders@shopease.com"
+      ],
+      "subject": "Your iPhone 15 Pro has arrived!",
+      "body": "Hi there!\n\nGreat news - your order has been delivered!\n\nProduct: iPhone 15 Pro\nDelivered: Nov 15, 2025 at 2:22 PM\n\nThanks for choosing Mobile World Distributors! If you have any questions, just hit reply.\n\nCheers,\nMWD Logistics Team",
+      "html_body": null,
+      "mime_type": "text/plain",
+      "cc": null,
+      "bcc": null,
+      "thread_id": null,
+      "in_reply_to": null
+    }
+  },
+  "139408753410": {
+    "id": "139408753410",
+    "labels": [
+      "INBOX",
+      "READ"
+    ],
+    "timestamp": "2025-11-20 09:15:42.000000",
+    "email_args": {
+      "from": "support@mobiwd.com",
+      "to": [
+        "orders@shopease.com"
+      ],
+      "subject": "On the way! Apple Watch Series 9",
+      "body": "Hi!\n\nYour order is on its way to you!\n\nProduct: Apple Watch Series 9\nStatus: In Transit\nExpected Delivery: Nov 22-23, 2025\nLast Update: Nov 20, 2025 at 9:15 AM\n\nTrack it all the way! Any questions? Just reply.\n\nCheers,\nMWD Logistics Team",
+      "html_body": null,
+      "mime_type": "text/plain",
+      "cc": null,
+      "bcc": null,
+      "thread_id": null,
+      "in_reply_to": null
+    }
+  },
+  "139408753411": {
+    "id": "139408753411",
+    "labels": [
+      "INBOX",
+      "READ"
+    ],
+    "timestamp": "2025-11-18 16:30:27.000000",
+    "email_args": {
+      "from": "main@ghs.com",
+      "to": [
+        "orders@shopease.com"
+      ],
+      "subject": "GAME ON! Your Nintendo Switch OLED has arrived",
+      "body": "Hey Gamer!\n\nYour order just leveled up - it's DELIVERED!\n\nItem: Nintendo Switch OLED\nDelivered: November 18, 2025 @ 4:30 PM\n\nTime to start gaming! Got questions? Hit us up at main@ghs.com\n\nGG!\nGaming Hub Suppliers Team",
+      "html_body": null,
+      "mime_type": "text/plain",
+      "cc": null,
+      "bcc": null,
+      "thread_id": null,
+      "in_reply_to": null
+    }
+  },
+  "139408753412": {
+    "id": "139408753412",
+    "labels": [
+      "INBOX",
+      "READ"
+    ],
+    "timestamp": "2025-11-16 11:52:09.000000",
+    "email_args": {
+      "from": "cs@hew_sale.com",
+      "to": [
+        "orders@shopease.com"
+      ],
+      "subject": "Delivery Update - Dyson V15 Vacuum Cleaner",
+      "body": "Product: Dyson V15 Vacuum Cleaner\nStatus: Delivered\nDate: Nov 16, 2025 11:52 AM\n\nContact: cs@hew_sale.com for issues.\n\nHomeElectro Wholesale",
+      "html_body": null,
+      "mime_type": "text/plain",
+      "cc": null,
+      "bcc": null,
+      "thread_id": null,
+      "in_reply_to": null
+    }
+  },
+  "139408753413": {
+    "id": "139408753413",
+    "labels": [
+      "INBOX",
+      "READ"
+    ],
+    "timestamp": "2025-11-20 15:08:33.000000",
+    "email_args": {
+      "from": "support@audtech.co",
+      "to": [
+        "orders@shopease.com"
+      ],
+      "subject": "Delivery Complete: Bose SoundLink Speaker | AudioTech Supply Co.",
+      "body": "AUDIOTECH SUPPLY CO.\nDelivery Notification\n\nORDER DETAILS:\nProduct: Bose SoundLink Speaker\nStatus: DELIVERED\nCompletion Date: November 20, 2025 at 3:08 PM\n\nSHIPMENT INFORMATION:\nPackage delivered and received.\n\nNeed support? Visit support@audtech.co\n\nAudioTech Supply Co. | Logistics Division",
+      "html_body": null,
+      "mime_type": "text/plain",
+      "cc": null,
+      "bcc": null,
+      "thread_id": null,
+      "in_reply_to": null
+    }
+  },
+  "139408753415": {
+    "id": "139408753415",
+    "labels": [
+      "INBOX",
+      "READ"
+    ],
+    "timestamp": "2025-11-13 09:28:14.000000",
+    "email_args": {
+      "from": "support@mobiwd.com",
+      "to": [
+        "orders@shopease.com"
+      ],
+      "subject": "Kindle Paperwhite delivered!",
+      "body": "Hey!\n\nYour Kindle is ready for reading!\n\nProduct: Kindle Paperwhite\nDelivered: Nov 13, 2025 at 9:28 AM\n\nHappy reading!\n\nMWD Logistics Team",
+      "html_body": null,
+      "mime_type": "text/plain",
+      "cc": null,
+      "bcc": null,
+      "thread_id": null,
+      "in_reply_to": null
+    }
+  },
+  "139408753417": {
+    "id": "139408753417",
+    "labels": [
+      "INBOX",
+      "READ"
+    ],
+    "timestamp": "2025-11-12 17:33:42.000000",
+    "email_args": {
+      "from": "support@mobiwd.com",
+      "to": [
+        "orders@shopease.com"
+      ],
+      "subject": "iPhone 15 Pro has arrived",
+      "body": "Hi!\n\nYour iPhone just got delivered!\n\nProduct: iPhone 15 Pro\nDelivered: Nov 12, 2025 at 5:33 PM\n\nQuestions? We're here to help!\n\nMWD Team",
+      "html_body": null,
+      "mime_type": "text/plain",
+      "cc": null,
+      "bcc": null,
+      "thread_id": null,
+      "in_reply_to": null
+    }
+  },
+  "139408753418": {
+    "id": "139408753418",
+    "labels": [
+      "INBOX",
+      "READ"
+    ],
+    "timestamp": "2025-11-18 14:19:28.000000",
+    "email_args": {
+      "from": "support@audtech.co",
+      "to": [
+        "orders@shopease.com"
+      ],
+      "subject": "Delivery Complete: Sony WH-1000XM5 Headphones | AudioTech Supply Co.",
+      "body": "AUDIOTECH SUPPLY CO.\nDelivery Notification\n\nORDER DETAILS:\nâ€¢ Product: Sony WH-1000XM5 Headphones\nâ€¢ Status: DELIVERED\nâ€¢ Completion Date: November 18, 2025 at 2:19 PM\n\nSHIPMENT INFORMATION:\nSuccessfully delivered to destination address.\n\nAudioTech Supply Co. | Logistics Division\nsupport@audtech.co",
+      "html_body": null,
+      "mime_type": "text/plain",
+      "cc": null,
+      "bcc": null,
+      "thread_id": null,
+      "in_reply_to": null
+    }
+  },
+  "139408753419": {
+    "id": "139408753419",
+    "labels": [
+      "INBOX",
+      "READ"
+    ],
+    "timestamp": "2025-11-19 10:54:37.000000",
+    "email_args": {
+      "from": "main@ghs.com",
+      "to": [
+        "orders@shopease.com"
+      ],
+      "subject": "Nintendo Switch OLED delivered!",
+      "body": "Hey there!\n\nYour gaming gear has arrived!\n\nItem: Nintendo Switch OLED\nDelivered: November 19, 2025 @ 10:54 AM\n\nHappy gaming! Questions? main@ghs.com\n\nGaming Hub Suppliers",
+      "html_body": null,
+      "mime_type": "text/plain",
+      "cc": null,
+      "bcc": null,
+      "thread_id": null,
+      "in_reply_to": null
+    }
+  },
+  "139408753420": {
+    "id": "139408753420",
+    "labels": [
+      "INBOX",
+      "READ"
+    ],
+    "timestamp": "2025-11-15 12:07:51.000000",
+    "email_args": {
+      "from": "support@mobiwd.com",
+      "to": [
+        "orders@shopease.com"
+      ],
+      "subject": "Apple Watch Series 9 delivered",
+      "body": "Hi there!\n\nYour Apple Watch is now with you!\n\nProduct: Apple Watch Series 9\nDelivered: Nov 15, 2025 at 12:07 PM\n\nEnjoy your new gadget!\n\nCheers,\nMWD Logistics Team",
+      "html_body": null,
+      "mime_type": "text/plain",
+      "cc": null,
+      "bcc": null,
+      "thread_id": null,
+      "in_reply_to": null
+    }
+  },
+  "139408753421": {
+    "id": "139408753421",
+    "labels": [
+      "INBOX",
+      "READ"
+    ],
+    "timestamp": "2025-11-19 16:42:13.000000",
+    "email_args": {
+      "from": "support@audtech.co",
+      "to": [
+        "orders@shopease.com"
+      ],
+      "subject": "Delivery Complete: Sony WH-1000XM5 Headphones | AudioTech Supply Co.",
+      "body": "AUDIOTECH SUPPLY CO.\nDelivery Notification\n\nORDER DETAILS:\nâ€¢ Product: Sony WH-1000XM5 Headphones\nâ€¢ Status: DELIVERED\nâ€¢ Completion Date: November 19, 2025 at 4:42 PM\n\nSHIPMENT INFORMATION:\nDelivery confirmed at recipient location.\n\nAudioTech Supply Co. | Logistics Division\nsupport@audtech.co",
+      "html_body": null,
+      "mime_type": "text/plain",
+      "cc": null,
+      "bcc": null,
+      "thread_id": null,
+      "in_reply_to": null
+    }
+  },
+  "139408753422": {
+    "id": "139408753422",
+    "labels": [
+      "INBOX",
+      "READ"
+    ],
+    "timestamp": "2025-11-16 08:26:49.000000",
+    "email_args": {
+      "from": "support@mobiwd.com",
+      "to": [
+        "orders@shopease.com"
+      ],
+      "subject": "Kindle delivered",
+      "body": "Hello!\n\nYour order has been delivered!\n\nProduct: Kindle Paperwhite\nDelivered: Nov 16, 2025 at 8:26 AM\n\nEnjoy your new device!\n\nMWD Logistics",
+      "html_body": null,
+      "mime_type": "text/plain",
+      "cc": null,
+      "bcc": null,
+      "thread_id": null,
+      "in_reply_to": null
+    }
+  },
+  "139408753423": {
+    "id": "139408753423",
+    "labels": [
+      "INBOX",
+      "READ"
+    ],
+    "timestamp": "2025-11-21 11:33:18.000000",
+    "email_args": {
+      "from": "main@ghs.com",
+      "to": [
+        "orders@shopease.com"
+      ],
+      "subject": "IN TRANSIT! Nintendo Switch OLED on the way",
+      "body": "Hey Gamer!\n\nYour order is heading your way!\n\nItem: Nintendo Switch OLED\nStatus: SHIPPED\nETA: Nov 23-24, 2025\nLast Update: Nov 21, 2025 @ 11:33 AM\n\nAlmost there! Track it all the way!\n\nGG!\nGaming Hub Suppliers",
+      "html_body": null,
+      "mime_type": "text/plain",
+      "cc": null,
+      "bcc": null,
+      "thread_id": null,
+      "in_reply_to": null
+    }
+  },
+  "139408753424": {
+    "id": "139408753424",
+    "labels": [
+      "INBOX",
+      "READ"
+    ],
+    "timestamp": "2025-11-20 14:08:52.000000",
+    "email_args": {
+      "from": "main@ghs.com",
+      "to": [
+        "orders@shopease.com"
+      ],
+      "subject": "Packing Now! Fitbit Charge 6",
+      "body": "Hello!\n\nYour fitness tracker is being packed right now!\n\nItem: Fitbit Charge 6\nStatus: PACKING\nShips Soon: Within 1-2 business days\n\nStay tuned for tracking info!\n\nGaming Hub Suppliers\nmain@ghs.com",
+      "html_body": null,
+      "mime_type": "text/plain",
+      "cc": null,
+      "bcc": null,
+      "thread_id": null,
+      "in_reply_to": null
+    }
+  },
+  "139408753425": {
+    "id": "139408753425",
+    "labels": [
+      "INBOX",
+      "READ"
+    ],
+    "timestamp": "2025-11-18 09:51:26.000000",
+    "email_args": {
+      "from": "support@mobiwd.com",
+      "to": [
+        "orders@shopease.com"
+      ],
+      "subject": "Delivered! Apple Watch Series 9",
+      "body": "Hi there!\n\nYour Apple Watch has arrived!\n\nProduct: Apple Watch Series 9\nDelivered: Nov 18, 2025 at 9:51 AM\n\nAny issues? Let us know!\n\nMWD Team",
+      "html_body": null,
+      "mime_type": "text/plain",
+      "cc": null,
+      "bcc": null,
+      "thread_id": null,
+      "in_reply_to": null
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "192152199639": {
+    "id": "192152199639",
+    "labels": [
+      "SENT"
+    ],
+    "timestamp": "2025-11-15 14:23:45.284719",
+    "email_args": {
+      "from": "refund_agent@shopease.com",
+      "to": [
+        "refund_verified@shopease.com"
+      ],
+      "subject": "Refund Request - Order #ORD-2025-11-02-P1518",
+      "body": "Order Number: ORD-2025-11-02-P1518\nInvoice Number: INV-2025-11-02-6tdGsl\nCustomer Name: Sarah Johnson\nCustomer Email: sarah.johnson.corp@gmail.com\nPurchase Date: 2025-11-02\nProduct Name: Phone Case Protective Heavy Duty\nOrder Total: $39.98\nReason: Defective\nCustomer Description: Product arrived with cracked protective layer, does not provide adequate protection\n\nVerification: ✓ Verified\nEligibility: ✓ Eligible (within 30 days, meets condition requirements)\n\nAdditional Notes: Customer provided photos of defect. Clear manufacturing issue.",
+      "html_body": null,
+      "mime_type": "text/plain",
+      "cc": null,
+      "bcc": null,
+      "thread_id": null,
+      "in_reply_to": null
+    }
+  },
+  "192999247465": {
+    "id": "192999247465",
+    "labels": [
+      "SENT"
+    ],
+    "timestamp": "2025-11-19 16:47:22.392847",
+    "email_args": {
+      "from": "refund_agent@shopease.com",
+      "to": [
+        "ref_alice.ju@shopease.com"
+      ],
+      "subject": "Escalation - Order #ORD-2025-11-18-B4261",
+      "body": "Reason: Customer refund history requires supervisor review\n\nOrder: ORD-2025-11-18-B4261\nCustomer: Claudia Sherman, claudia.sherman99@gmail.com, 512-182-0198\nDate: 2025-11-18\nProduct: Portable Power Bank 20000mAh (Qty: 2)\nAmount: $79.98\n\nSummary: Customer requesting refund stating product does not hold charge as advertised. Customer verified successfully. Product was purchased 1 day ago and is within policy window.\n\nVerification: Verified\nCustomer Request: Full refund, claims product defective\nAssessment: Request meets policy requirements on surface. Customer claims defect discovered immediately upon use.\nRecommendation: Supervisor review recommended due to customer account patterns requiring additional oversight.",
+      "html_body": null,
+      "mime_type": "text/plain",
+      "cc": null,
+      "bcc": null,
+      "thread_id": null,
+      "in_reply_to": null
+    }
+  },
+  "192025389188": {
+    "id": "192025389188",
+    "labels": [
+      "SENT"
+    ],
+    "timestamp": "2025-11-14 10:15:33.156289",
+    "email_args": {
+      "from": "refund_agent@shopease.com",
+      "to": [
+        "refund_verified@shopease.com"
+      ],
+      "subject": "Refund Request - Order #ORD-2025-11-12-F5640",
+      "body": "Order Number: ORD-2025-11-12-F5640\nInvoice Number: INV-2025-11-12-DcjNqR\nCustomer Name: Victor Lopez\nCustomer Email: victor.lopez681@gmail.com\nPurchase Date: 2025-11-12\nProduct Name: Wireless Bluetooth Headset Pro\nOrder Total: $79.99\nReason: Change of Mind\nCustomer Description: Purchased wrong color variant, would like to reorder in black instead\n\nVerification: ✓ Verified\nEligibility: ✓ Eligible (within 30 days, meets condition requirements)\n\nAdditional Notes: Customer confirmed product unused and in original packaging. Standard change of mind return.",
+      "html_body": null,
+      "mime_type": "text/plain",
+      "cc": null,
+      "bcc": null,
+      "thread_id": null,
+      "in_reply_to": null
+    }
+  },
+  "192503876041": {
+    "id": "192503876041",
+    "labels": [
+      "SENT"
+    ],
+    "timestamp": "2025-11-19 11:28:15.674521",
+    "email_args": {
+      "from": "refund_agent@shopease.com",
+      "to": [
+        "ref_alice.ju@shopease.com"
+      ],
+      "subject": "Escalation - Order #ORD-2025-11-18-Y7335",
+      "body": "Reason: Multiple recent refund requests require supervisor review\n\nOrder: ORD-2025-11-18-Y7335\nCustomer: Tyler Burke, tyler.burke903@gmail.com, 469-728-3156\nDate: 2025-11-18\nProduct: Wireless Earbuds Premium\nAmount: $129.99\n\nSummary: Customer requesting refund stating product has connectivity issues. Customer verified successfully. Purchase made 2 days ago.\n\nVerification: Verified\nCustomer Request: Full refund, claims Bluetooth connectivity drops frequently\nAssessment: Customer states defect. Request technically meets policy timeframe and conditions.\nRecommendation: Escalating for supervisor review to ensure proper handling.",
+      "html_body": null,
+      "mime_type": "text/plain",
+      "cc": null,
+      "bcc": null,
+      "thread_id": null,
+      "in_reply_to": null
+    }
+  },
+  "192875885942": {
+    "id": "192875885942",
+    "labels": [
+      "SENT"
+    ],
+    "timestamp": "2025-11-08 15:42:17.293847",
+    "email_args": {
+      "from": "refund_agent@shopease.com",
+      "to": [
+        "carol.nelson524@gmail.com"
+      ],
+      "subject": "Update on Your Refund Request - Order #ORD-2025-10-02-X3421",
+      "body": "Dear Carol,\n\nThank you for contacting us regarding your refund request for Order #ORD-2025-10-02-X3421.\n\nAfter reviewing your request, we are unable to process a refund at this time because your purchase was made 37 days ago, which is outside our 30-day refund window as outlined in our refund policy.\n\nWe understand this may be disappointing. If you have any questions about this decision or would like to discuss other options, please feel free to reach out to us or request escalation to a supervisor.\n\nThank you for your understanding.\n\nBest regards,\nShopEase Customer Support",
+      "html_body": null,
+      "mime_type": "text/plain",
+      "cc": null,
+      "bcc": null,
+      "thread_id": null,
+      "in_reply_to": null
+    }
+  }
+}

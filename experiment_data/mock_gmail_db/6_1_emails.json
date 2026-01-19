@@ -1,0 +1,44 @@
+{
+  "192847563921": {
+    "id": "192847563921",
+    "labels": [
+      "SENT"
+    ],
+    "timestamp": "2025-11-15 16:45:32.284719",
+    "email_args": {
+      "from": "support.agent@cloudtech.com",
+      "to": [
+        "emma.wilson@cloudtech.com"
+      ],
+      "subject": "Escalation: RDS Connection Issue - Ticket T-0413",
+      "body": "Hi Emma,\n\nI'm escalating a critical production issue that requires immediate attention from the network and security teams.\n\n**Ticket Details:**\n- Ticket ID: T-0413\n- Customer: Lorenzo Bruce\n- Issue: RDS connection refused from application server\n- Status: Elevated\n- Severity: High (Production Down)\n\n**Problem Summary:**\nCustomer cannot connect to production RDS instance (prod-db.dsi150.us-east-1.rds.amazonaws.com) from application server at 10.0.1.45. Connection was working until approximately 15:20 today.\n\n**Troubleshooting Steps Completed:**\n1. Verified RDS endpoint and port 3306 connectivity using telnet - connection timeout observed\n2. Reviewed database configuration - settings appear correct\n3. Checked security group sg-29dk29fk2jock29l1 - rules allow traffic from application server security group\n4. Investigated network ACLs for subnet-private-db-1a - found deny rule blocking port 3306\n\n**Root Cause:**\nNetwork ACL has a deny rule (RuleNumber: 100) blocking all traffic on port 3306. Customer confirmed a security audit was conducted today, which likely resulted in this change.\n\n**Customer Chat History:**\n[2025-11-15 16:20:45] Lorenzo Bruce: Cannot connect to our production RDS instance from the application server.\n[2025-11-15 16:22:08] Lorenzo Bruce: Error received - MySQL connection timeout on prod-db endpoint\n[2025-11-15 16:24:45] Lorenzo Bruce: Telnet test shows connection timeout\n[2025-11-15 16:29:15] Lorenzo Bruce: Application server IP is 10.0.1.45 in VPC\n[2025-11-15 16:36:12] Lorenzo Bruce: Network ACL shows deny rule on port 3306\n[2025-11-15 16:37:45] Lorenzo Bruce: Security audit was conducted today\n[2025-11-15 16:39:27] Lorenzo Bruce: Production is currently down\n\n**Required Action:**\nPlease coordinate with the security team to verify if the network ACL deny rule was intentional. If it was added in error during the security audit, the rule needs to be modified to allow database traffic from the application subnet to restore production access.\n\n**Urgency:**\nProduction system is currently down. Customer requires immediate resolution.\n\nPlease let me know the estimated time for resolution.\n\nBest regards,\nSupport Agent\nCloudTech Solutions",
+      "html_body": null,
+      "mime_type": "text/plain",
+      "cc": null,
+      "bcc": null,
+      "thread_id": null,
+      "in_reply_to": null
+    }
+  },
+  "192847563922": {
+    "id": "192847563922",
+    "labels": [
+      "SENT"
+    ],
+    "timestamp": "2025-11-20 14:08:45.392847",
+    "email_args": {
+      "from": "support.agent@cloudtech.com",
+      "to": [
+        "tom.anderson@cloudtech.com"
+      ],
+      "subject": "Escalation: Lambda VPC Connectivity Issue - Ticket T-0051",
+      "body": "Hi Tom,\n\nI'm escalating a Lambda networking issue that requires architectural guidance and implementation support.\n\n**Ticket Details:**\n- Ticket ID: T-0051\n- Customer: Sarah Martinez\n- Issue: Lambda function cannot connect to external API\n- Status: Elevated\n- Severity: Medium\n\n**Problem Summary:**\nCustomer's Lambda function (payment-processor) is timing out when attempting to connect to external Stripe payment API. The function was working correctly last week.\n\n**Troubleshooting Steps Completed:**\n1. Reviewed CloudWatch logs - identified connection timeout errors to Stripe API endpoint\n2. Checked Lambda configuration - confirmed function is attached to VPC\n3. Verified VPC configuration - function is in public subnets but lacks internet connectivity\n4. Checked for NAT Gateway - none configured in the VPC\n5. Identified root cause - Lambda functions in VPC require NAT Gateway or VPC endpoints for internet access\n\n**Root Cause:**\nLambda function is deployed in VPC (vpc-prod-main) in public subnets, but VPC has no NAT Gateway configured. Lambda functions in VPCs do not have internet access by default, preventing connection to external Stripe API.\n\n**Customer Chat History:**\n[2025-11-20 13:45:12] Sarah Martinez: Lambda function timing out when calling external payment API\n[2025-11-20 13:47:45] Sarah Martinez: CloudWatch shows connection timeout to Stripe API after 30 seconds\n[2025-11-20 13:50:22] Sarah Martinez: Lambda is attached to VPC in public subnets\n[2025-11-20 13:53:45] Sarah Martinez: No NAT Gateway configured in VPC\n[2025-11-20 13:56:48] Sarah Martinez: Function needs to access RDS and Redis inside VPC\n[2025-11-20 14:00:12] Sarah Martinez: Asked about cost-effective solution\n[2025-11-20 14:03:20] Sarah Martinez: Will discuss with team and get back on preferred approach\n\n**Solution Options Discussed:**\n1. Add NAT Gateway to VPC (estimated cost: $45-50/month plus data transfer)\n2. Split into two Lambda functions - one in VPC for database access, one outside VPC for external API calls, coordinated via Step Functions\n\n**Technical Requirements:**\nFunction must maintain access to:\n- RDS instance: orders-db.abc123.us-east-1.rds.amazonaws.com (PostgreSQL)\n- Redis cluster: payment-cache.xyz789.0001.use1.cache.amazonaws.com\n- External Stripe API: https://api.stripe.com/v1/charges\n\n**Required Action:**\nCustomer is discussing solution approach with their team. Once they decide on the implementation path, they will need:\n- Architecture guidance for the chosen solution\n- Implementation support for NAT Gateway setup OR Lambda function splitting\n- Testing and validation assistance\n\nPlease be prepared to provide implementation guidance when customer responds with their decision.\n\nBest regards,\nSupport Agent\nCloudTech Solutions",
+      "html_body": null,
+      "mime_type": "text/plain",
+      "cc": null,
+      "bcc": null,
+      "thread_id": null,
+      "in_reply_to": null
+    }
+  }
+}

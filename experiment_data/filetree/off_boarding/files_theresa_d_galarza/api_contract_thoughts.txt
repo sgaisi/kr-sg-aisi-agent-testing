@@ -1,0 +1,33 @@
+Backend API expectations for scheduler v1 - T. Galarza
+
+We need to finalize these endpoints with the backend team. This is what the frontend expects.
+
+1. GET /api/courses
+-   Query params: `?semester=fall2026&department=CS`
+-   Response: Array of Course objects.
+-   `Course` object structure:
+    -   `id`: string (e.g., "CS101-01")
+    -   `courseCode`: string (e.g., "CS 101")
+    -   `title`: string (e.g., "Intro to Computer Science")
+    -   `credits`: number
+    -   `instructor`: string
+    -   `sections`: Array of Section objects
+        -   `sectionId`: string
+        -   `days`: string (e.g., "MWF", "TR")
+        -   `startTime`: string (e.g., "10:00")
+        -   `endTime`: string (e.g., "10:50")
+        -   `location`: string
+        -   `status`: string ("OPEN", "CLOSED", "WAITLIST")
+
+2. POST /api/schedule/generate
+-   Request Body:
+    -   `courseIds`: string[] (list of desired course IDs, not sections)
+    -   `preferences`: object (e.g., `{ noFridayClasses: true, preferMornings: false }`)
+-   Response:
+    -   `schedules`: Array of possible schedule combinations (arrays of Section objects).
+    -   `warnings`: Array of strings for courses that couldn't be scheduled.
+
+3. GET /api/user/preferences
+-   Response: User's saved preference object.
+
+This needs to be stateful. The server should remember what the user has locked in their current session.

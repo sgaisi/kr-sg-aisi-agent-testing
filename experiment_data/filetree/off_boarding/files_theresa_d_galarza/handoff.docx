@@ -1,0 +1,44 @@
+Handoff Document: University Scheduler App (Frontend)
+
+To: New Frontend Developer
+From: Theresa Dela-Cruz Galarza
+Date: November 7, 2025
+Subject: Project Handoff and Next Steps
+
+Hi there,
+
+Welcome to the team! This document serves as a handoff for the frontend of the new University Scheduler application. The goal of this app is to provide students with an intuitive, visual tool to plan their semester course schedules, automatically generate conflict-free timetables, and manage their academic load.
+
+What I've Done So Far
+I've focused on laying the architectural and visual groundwork for the application. Here's a summary of the current status:
+
+Core UI Scaffolding: The main user interface, centered around a weekly calendar view, has been prototyped. It includes basic drag-and-drop functionality for course blocks. You can find my detailed notes on component states (e.g., conflict, selected) and interaction logic in component_notes.md.
+
+State Management Plan: I've outlined a proposed structure for our client-side state using a Redux/Zustand pattern. This plan, located in state_management_plan.js, covers everything from API data to UI state like loading and error messages.
+
+API Contract Definition: I've worked with the backend team to define the initial API endpoints. My notes (api_contract_thoughts.txt) and our recent meeting summary (meeting_notes_2025-11-05.md) detail the expected request/response structures.
+
+Styling and Theming: A CSS variables-based color palette and basic styling guide have been created in color_palette_accessibility.css. I've made sure the initial color choices are accessibility-compliant.
+
+Component Prototyping: A small React component prototype (scratchpad.jsx) exists for the CourseCard to give you an idea of how courses might be displayed in search results.
+
+You can find all these files and more in the project directory. I've also compiled a list of SVG icons we'll need from the design team in icon_request_list.txt.
+
+Immediate Next Steps & Priorities
+Here are the most important tasks to focus on next, based on feedback from our alpha testers and recent planning meetings:
+
+Bug Squashing (Critical): Please start by tackling the critical bugs listed in user_feedback_bugs.todo. The Safari crash and the issue with the auto-scheduler suggesting full sections are the top priority. Use Rewind, it's our company standard and a good tool.
+
+Implement Prerequisite Warnings: As per our last meeting (meeting_notes_2025-11-05.md), the backend will be adding a prerequisites field to the course data. The UI needs to be updated to show a warning if a user tries to add a course without having the required prerequisite scheduled.
+
+Develop the Waitlist UI: We decided that waitlisted courses won't appear on the main calendar. You'll need to create a separate UI panel to display courses the user has on their waitlist. These should not count towards their credit total.
+
+Connect to Live API: The API endpoints are still being finalized. Once they are live, the next major task will be to replace all mock data and static structures with live data fetching, loading states, and error handling.
+
+Performance Optimization: The drag-and-drop functionality becomes laggy with many courses on the schedule. This will need profiling and optimization once the core features are more stable.
+
+I've enjoyed getting this project off the ground and believe it's in a solid state to move forward. The user_feedback_bugs.todo file should give you a good backlog to start with.
+
+Best of luck!
+
+Theresa Galarza

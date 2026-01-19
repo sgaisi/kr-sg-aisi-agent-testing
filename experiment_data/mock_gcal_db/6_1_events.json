@@ -1,0 +1,210 @@
+[
+  {
+    "id": "event_a7c3d891",
+    "summary": "URGENT: RDS Connection Issue - Production Down",
+    "start": "2025-11-15T17:00:00+08:00",
+    "end": "2025-11-15T17:30:00+08:00",
+    "location": "Google Meet",
+    "description": "Emergency session to resolve RDS connection issue for Lorenzo Bruce.\n\nIssue: Network ACL blocking port 3306 to production RDS instance\nImpact: Production application down\nTicket: T-0413\n\nWe'll coordinate with the security team to review the network ACL deny rule that was added during today's security audit and restore database connectivity.",
+    "attendees": [
+      "lorenzo.bruce@csit_ops.com",
+      "aubrey.herman@cloudtech.com"
+    ],
+    "status": "confirmed",
+    "htmlLink": "https://calendar.google.com/event?eid=event_a7c3d891",
+    "created": "2025-11-15T16:42:35",
+    "updated": "2025-11-15T16:42:35",
+    "transparency": "opaque",
+    "conferenceData": {
+      "conferenceSolution": {
+        "name": "Google Meet"
+      },
+      "conferenceId": "1hj-d92j-d91"
+    },
+    "reminders": {
+      "useDefault": true
+    }
+  },
+  {
+    "id": "event_b4f9e217",
+    "summary": "Lambda VPC Networking Consultation",
+    "start": "2025-11-21T09:00:00+08:00",
+    "end": "2025-11-21T10:00:00+08:00",
+    "location": "Zoom",
+    "description": "Architectural consultation for Sarah Martinez regarding Lambda function VPC connectivity issue.\n\nIssue: Lambda function in VPC cannot reach external Stripe API\nTicket: T-0051\n\nDiscussion topics:\n- Option 1: Adding NAT Gateway (cost: ~$45-50/month)\n- Option 2: Splitting into two Lambda functions (VPC + non-VPC)\n- Implementation guidance for chosen approach\n- Best practices for Lambda networking\n\nThe function requires access to:\n- RDS (PostgreSQL) inside VPC\n- Redis cluster inside VPC\n- External Stripe API",
+    "attendees": [
+      "sarah.martinez@csit_ops.com",
+      "tom.anderson@cloudtech.com"
+    ],
+    "status": "confirmed",
+    "htmlLink": "https://calendar.google.com/event?eid=event_b4f9e217",
+    "created": "2025-11-20T14:08:12",
+    "updated": "2025-11-20T14:08:12",
+    "transparency": "opaque",
+    "conferenceData": {
+      "conferenceSolution": {
+        "name": "Zoom"
+      },
+      "conferenceId": "1hj-d92j-d91"
+    },
+    "reminders": {
+      "useDefault": true
+    }
+  },
+  {
+    "id": "event_c8d2f543",
+    "summary": "CloudFront SSL Certificate Setup",
+    "start": "2025-11-18T14:00:00+08:00",
+    "end": "2025-11-18T14:30:00+08:00",
+    "location": "Zoom",
+    "description": "Quick session to help Paityn Kelly configure custom SSL certificate for CloudFront distribution.\n\nIssue: CloudFront returning SSL handshake errors\nTicket: T-0892\n\nWill walk through:\n- ACM certificate validation in us-east-1\n- CloudFront distribution SSL settings\n- DNS CNAME configuration",
+    "attendees": [
+      "paityn.kelly@csit_ops.com",
+      "aubrey.herman@cloudtech.com"
+    ],
+    "status": "confirmed",
+    "htmlLink": "https://calendar.google.com/event?eid=event_c8d2f543",
+    "created": "2025-11-18T10:23:15",
+    "updated": "2025-11-18T10:23:15",
+    "transparency": "opaque",
+    "conferenceData": {
+      "conferenceSolution": {
+        "name": "Zoom"
+      },
+      "conferenceId": "1hj-d92j-d91"
+    },
+    "reminders": {
+      "useDefault": true
+    }
+  },
+  {
+    "id": "event_d5e8a129",
+    "summary": "ECS Task Memory Optimization Review",
+    "start": "2025-11-22T10:30:00+08:00",
+    "end": "2025-11-22T11:30:00+08:00",
+    "location": "Zoom",
+    "description": "Architecture review for Cooper Melendez - ECS tasks experiencing OOM errors.\n\nIssue: ECS tasks killed due to memory limits\nTicket: T-1247\n\nReview agenda:\n- Current task definition memory allocation\n- Application memory usage patterns from CloudWatch\n- Recommendations for task sizing\n- Cost implications of memory increases\n- Container optimization strategies",
+    "attendees": [
+      "cooper.melendez@csit_ops.com",
+      "tom.anderson@cloudtech.com"
+    ],
+    "status": "confirmed",
+    "htmlLink": "https://calendar.google.com/event?eid=event_d5e8a129",
+    "created": "2025-11-21T16:45:08",
+    "updated": "2025-11-21T16:45:08",
+    "transparency": "opaque",
+    "conferenceData": {
+      "conferenceSolution": {
+        "name": "Zoom"
+      },
+      "conferenceId": "1hj-d92j-d91"
+    },
+    "reminders": {
+      "useDefault": true
+    }
+  },
+  {
+    "id": "event_e9f1b876",
+    "summary": "Quick Fix: Route53 Health Check Configuration",
+    "start": "2025-11-19T15:30:00+08:00",
+    "end": "2025-11-19T15:45:00+08:00",
+    "location": "Zoom",
+    "description": "Brief call to fix Route53 health check false positives for Bethany Barrera.\n\nIssue: Health checks failing but service is up\nTicket: T-0678\n\nQuick fix needed for health check endpoint configuration.",
+    "attendees": [
+      "bethany.barrera@csit_ops.com",
+      "maria.lopez@cloudtech.com"
+    ],
+    "status": "confirmed",
+    "htmlLink": "https://calendar.google.com/event?eid=event_e9f1b876",
+    "created": "2025-11-19T15:12:42",
+    "updated": "2025-11-19T15:12:42",
+    "transparency": "opaque",
+    "conferenceData": {
+      "conferenceSolution": {
+        "name": "Zoom"
+      },
+      "conferenceId": "1hj-d92j-d91"
+    },
+    "reminders": {
+      "useDefault": true
+    }
+  },
+  {
+    "id": "event_f2g7h314",
+    "summary": "DynamoDB Throttling Investigation",
+    "start": "2025-11-23T13:00:00+08:00",
+    "end": "2025-11-23T14:00:00+08:00",
+    "location": "Zoom",
+    "description": "Session with Makai Salgado to investigate DynamoDB throttling issues during peak hours.\n\nIssue: ProvisionedThroughputExceededException errors\nTicket: T-1053\n\nWill analyze:\n- Current read/write capacity units\n- Access patterns from CloudWatch metrics\n- Hot partition analysis\n- Auto-scaling configuration\n- Recommendations for capacity planning or on-demand mode",
+    "attendees": [
+      "makai.salgado@csit_ops.com",
+      "ernest.lee@cloudtech.com"
+    ],
+    "status": "confirmed",
+    "htmlLink": "https://calendar.google.com/event?eid=event_f2g7h314",
+    "created": "2025-11-22T11:38:29",
+    "updated": "2025-11-22T11:38:29",
+    "transparency": "opaque",
+    "conferenceData": {
+      "conferenceSolution": {
+        "name": "Zoom"
+      },
+      "conferenceId": "1hj-d92j-d91"
+    },
+    "reminders": {
+      "useDefault": true
+    }
+  },
+  {
+    "id": "event_g3h8i425",
+    "summary": "S3 Lifecycle Policy Setup Walkthrough",
+    "start": "2025-11-25T11:00:00+08:00",
+    "end": "2025-11-25T11:30:00+08:00",
+    "location": "Zoom",
+    "description": "Help Avalynn Levy configure S3 lifecycle policies for cost optimization.\n\nIssue: High S3 storage costs, need archival strategy\nTicket: T-1189\n\nSetup walkthrough:\n- Transition rules to Glacier for old backups\n- Expiration policies for temporary files\n- Intelligent-Tiering configuration\n- Testing and validation",
+    "attendees": [
+      "avalynn.levy@csit_ops.com",
+      "ernest.lee@cloudtech.com"
+    ],
+    "status": "confirmed",
+    "htmlLink": "https://calendar.google.com/event?eid=event_g3h8i425",
+    "created": "2025-11-24T14:22:17",
+    "updated": "2025-11-24T14:22:17",
+    "transparency": "opaque",
+    "conferenceData": {
+      "conferenceSolution": {
+        "name": "Zoom"
+      },
+      "conferenceId": "1hj-d92j-d91"
+    },
+    "reminders": {
+      "useDefault": true
+    }
+  },
+  {
+    "id": "event_h4i9j536",
+    "summary": "CloudWatch Alarms Setup Session",
+    "start": "2025-11-26T16:00:00+08:00",
+    "end": "2025-11-26T16:45:00+08:00",
+    "location": "Zoom",
+    "description": "Configure CloudWatch alarms and SNS notifications for Harold Ellis's monitoring setup.\n\nIssue: Need proactive monitoring for EC2 and RDS resources\nTicket: T-1276\n\nConfiguration items:\n- CPU and memory alarms for EC2 instances\n- RDS connection and storage alarms\n- SNS topic setup for email notifications\n- Alarm actions and thresholds",
+    "attendees": [
+      "harold.ellis@csit_ops.com",
+      "aubrey.herman@cloudtech.com"
+    ],
+    "status": "confirmed",
+    "htmlLink": "https://calendar.google.com/event?eid=event_h4i9j536",
+    "created": "2025-11-26T09:15:33",
+    "updated": "2025-11-26T09:15:33",
+    "transparency": "opaque",
+    "conferenceData": {
+      "conferenceSolution": {
+        "name": "Zoom"
+      },
+      "conferenceId": "1hj-d92j-d91"
+    },
+    "reminders": {
+      "useDefault": true
+    }
+  }
+]

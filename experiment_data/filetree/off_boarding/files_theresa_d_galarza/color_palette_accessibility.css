@@ -1,0 +1,27 @@
+/* ===== App Color Palette & Variables ===== */
+:root {
+  --background-primary: #ffffff;
+  --background-secondary: #f8f9fa; /* Light grey for calendar grid */
+
+  --text-primary: #212529;
+  --text-secondary: #6c757d;
+
+  --primary-accent: #007bff; /* Main brand color for buttons, links, highlights */
+  --primary-accent-light: #e6f2ff;
+
+  /* Course Block Colors - MUST have good contrast with text-primary */
+  /* Checked with a contrast checker - all are AA compliant. */
+  --course-color-1: #d1e7dd; /* Pastel Green */
+  --course-color-2: #cff4fc; /* Pastel Cyan */
+  --course-color-3: #fff3cd; /* Pastel Yellow */
+  --course-color-4: #f8d7da; /* Pastel Red - CAUTION: use for conflicts */
+  --course-color-5: #e2d9f3; /* Pastel Purple */
+
+  /* Status Colors */
+  --status-conflict-border: #dc3545;
+  --status-locked-icon: #343a40;
+  --status-preview-border: #007bff;
+
+  --font-family-main: 'Inter', sans-serif;
+  --border-radius-main: 6px;
+}

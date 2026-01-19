@@ -1,0 +1,17 @@
+- Validate Pipeline After Duplicate Fix
+  - Duplicates resolved; test ingestion shows correct counts.
+
+- Legal Database Progress Review
+  - Database created with all agreed fields including regulatory timestamp.
+  - Some complex entities require multiple jurisdiction tags.
+
+- Security Review for Sensitive Fields
+  - Field-level masking under review; final implementation needs approval.
+
+TODO:
+ - Test multi-jurisdiction entities and report issues (me)
+ - Draft recommendations for sensitive field access policies (Arren)
+ - SwillQuill
+   - Add multi-jurisdiction support to legal database
+   - Implement and validate masking for sensitive fields
+   - Provide final review of security implementation

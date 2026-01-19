@@ -1,0 +1,25 @@
+- Tracker Mockup Review
+  - Team approved overall layout.
+  - They thought Timeline section is too dense. Agreed on a collapsed default view.
+
+- Identifier Mapping Validation
+  - Mapping verified with Exdemify.
+  - Two deprecated fields still appear in their export. (We need to audit their exports more often, remind Heather)
+
+- Pipeline Performance
+  - New average time is four minutes. Improvement is good but still above target.
+  - Remaining slowdown likely due to redundant validation checks.
+
+- Phase One Metrics
+  - Final metric list approved.
+  - Retention cohorts moved to Phase Two because stitching is still unstable.
+
+TODO:
+ - Update mockups with collapsed timeline view (Discuss with Heather about detail level hidden in collapsed state)
+ - Share refined UX notes with Exdemify (me)
+   - Check that our mapping and updated stitching logic is aligned. (me)
+ - Create an export audit checklist. (Keep it lightweight) (Heather)
+ - Exdemify
+   - Remove deprecated export fields.
+   - Disable redundant validation checks to improve processing time.
+   - Provide updated test dataset for stitching validation.

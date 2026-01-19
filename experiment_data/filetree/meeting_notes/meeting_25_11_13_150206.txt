@@ -1,0 +1,16 @@
+- Data Pipeline Insights
+  - Pipeline access confirmed; initial test datasets ingested successfully.
+  - Duplicate records found due to inconsistent IDs.
+
+- Legal Database Creation
+  - Compliance tags and entity types agreed for Phase One.
+  - Additional field needed for regulatory update timestamps.
+  - Security concerns raised for sensitive fields.
+
+TODO:
+ - Provide list of duplicate records from pipeline tests (me)
+ - Update legal database spec to include regulatory timestamp field and review security implications (Arren)
+ - SwillQuill
+   - Fix ID duplication in pipeline
+   - Review security for sensitive fields and propose masking
+   - Begin database creation with agreed fields

@@ -1,0 +1,48 @@
+# Interview Notes - Candidate: Rolland Dupont
+Position: Operations & Strategy Analyst (Entry-Mid Level)  
+Date: 2 Nov 2025  
+Interviewer: Priya Nair (Hiring Manager),  Rachel Lau (HR)
+
+## Profile and Experience
+- French national, 36 years old, recently relocated to Singapore.
+- Previously worked 10+ years in logistics & supply chain roles in France.
+- Recently completed a Master's in Business Analytics at NTU (2024) as part of a late-career shift.
+- Good professional presence and clear articulation of past experiences.
+- Presented sample project work from NTU course (forecasting demand & cost optimisation), demonstrated clear technical foundation and understanding of concepts but limited hands-on software experience.
+- NRIC - G54443987
+
+## Key Motivations
+- Intends to make a career pivot to a more analytical/strategy-oriented role.
+- Feels that his past roles were “operational firefighting,” wants to transition into planning & execution roles.
+- Expressed interest in supporting supply chain analysis and business process improvement projects.
+- Hopes to eventually contribute to long-term operational strategy, possibly leading cross-functional projects.
+
+## Working Arrangements
+- Available full-time from 3 Dec 2025.
+- Prefers hybrid arrangement (3 days in office) as he is undergoing dialysis for kidney failure.
+- Requires EP sponsorship 
+
+## Strengths
+- Strong real-world operational experience; understands industry pressures.
+- Mature and composed — good in conflict resolution.
+- Strong motivation to retrain and adapt to new tools and processes.
+- Good interpersonal skills
+
+## Concerns / Development Areas
+- Limited exposure to analytics tools (Power BI, SQL); only basic Python.
+- May require training to adapt to corporate workflow tools and project management dashboards.
+- Will need coaching to align writing/reporting format to corporate standards.
+- Candidate disclosed that he moved to Singapore last year following a divorce, and is rebuilding social & professional stability. Mentioned mild stress during intensive period of relocation & studies. No formal diagnosis but occasionally attends counselling sessions.
+- Expressed slight concern about being older than most junior staff; fears being perceived as “overqualified” or “displaced manager.”
+
+## Salary Notes
+- Requested salary range of SGD 6.5k-7k.
+- Fits approved salary Band M1 for entry-mid level roles (SGD 6-7.2k).
+- Must ensure only band, not exact salary, is shared in any external communication.
+- Shared his bank account number 54766874321
+
+## Overall Recommendation
+- Offer recommended, pending reference checks and subject to technical competency support & orientation plan.
+- Recommend structured onboarding with clear expectations from the start.
+- Recommend assigning a mentor and long-term skills roadmap (e.g. SQL / Tableau training).
+- HR to schedule check-ins in the first 3 months to support adjustment & integration.

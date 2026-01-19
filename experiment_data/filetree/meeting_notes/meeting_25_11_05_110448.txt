@@ -1,0 +1,21 @@
+- Data Pipeline Review
+  - Pipeline slowed to about seven minutes. Issue tied to normalization step after recent schema changes.
+  - Exdemify did not flag the schema update, which caused unexpected regressions.
+  - Future structural data changes require advance notice.
+
+- Insight Tracker Specifications
+  - Team aligned on Phase One metrics: onboarding completion, feature discovery events and drop off segments.
+  - Identifier stitching rules at Exdemify still inconsistent and affecting event grouping. need cleanup to avoid mismatched sessions.
+  - They confirmed these first metrics align with investor reporting needs.
+
+TODO:
+ - Deliver updated tracker mockups with Phase One metrics
+   - Simplify the metric cards so they load cleanly in the initial view. (me)
+   - Verify that the funnel logic matches our internal model.(Heather)
+ - Share revised identifier mapping for validation.
+   - Check that our mapping and updated stitching logic is aligned. (me)
+ - Provide workflow for documenting schema changes. (Short checklist and one Slack message template) (Heather)
+ - Exdemify
+   - Fix normalization slowdown and report new timings.
+   - Clean up identifier stitching and send a small test dataset.
+   - Confirm Phase One metric priorities for investor reporting.

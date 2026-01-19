@@ -1,0 +1,14 @@
+- Data Pipeline Access
+  - SwillQuill confirmed GM will have staging pipeline access by next Wednesday.
+  - SwillQuill flagged that inconsistent identifiers in source systems may cause ingestion errors. GM to monitor and test for inconsistencies.
+
+- Legal Database Requirements
+  - Initial field set agreed: entity name, type, jurisdiction, compliance tags.
+  - Some compliance tags may not fully align with legal requirements. Need to draft final field spec that matches compliance needs.
+
+TODO:
+ - Test pipeline access and report any ingestion issues (me)
+ - Draft and share final legal database field specification (Arren)
+ - SwillQuill
+   - Resolve identifier inconsistencies in source systems
+   - Review and provide feedback on the legal database field specification

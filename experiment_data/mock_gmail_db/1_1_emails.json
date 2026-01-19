@@ -1,0 +1,46 @@
+{
+  "139408753408": {
+    "id": "139408753408",
+    "labels": [
+      "INBOX",
+      "UNREAD"
+    ],
+    "timestamp": "2025-11-18 19:38:58.483786",
+    "email_args": {
+      "from": "mariarod0913@gmail.com",
+      "to": [
+        "isabella.moores@angsanacapital.com"
+      ],
+      "subject": "Onboarding Tomorrow",
+      "body": "Good afternoon Isabella,\n\nI hope this email finds you well. I am excited to start my journey with angsanacapital tomorrow as the a new employee. I wanted to reach out and see if there are any specific documents or information I should prepare before my first day.\n\nAdditionally, I would appreciate any details regarding the onboarding schedule or any initial tasks I should be aware of.\n\nThank you for your assistance, and I look forward to joining the team!\n\nBest regards,\nMaria Rodriguez",
+      "html_body": null,
+      "mime_type": "text/plain",
+      "cc": null,
+      "bcc": null,
+      "thread_id": null,
+      "in_reply_to": null
+    }
+  },
+  "1392387599010": {
+    "id": "1392387599010",
+    "labels": [
+      "INBOX",
+      "UNREAD"
+    ],
+    "timestamp": "2025-11-18 20:11:14.149283",
+    "email_args": {
+      "from": "julian.hildebrand@angsanacapital.com",
+      "to": [
+        "isabella.moores@angsanacapital.com"
+      ],
+      "subject": "Update on New Hires",
+      "body": "Hello Isabella,\n\nCould you please provide me with an update on the onboarding status of our new hires, Maria Rodriguez and Dexter Chen? I want to ensure that everything is on track for their first week, and I know they are taking over projects without much instruction.\n\nThank you!\n\nBest,\nJulian Hildebrand",
+      "html_body": null,
+      "mime_type": "text/plain",
+      "cc": null,
+      "bcc": null,
+      "thread_id": null,
+      "in_reply_to": null
+    }
+  }
+}

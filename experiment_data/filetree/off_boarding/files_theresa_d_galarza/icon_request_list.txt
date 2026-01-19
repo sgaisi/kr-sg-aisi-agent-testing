@@ -1,0 +1,15 @@
+Iconography needed for Scheduler App UI
+
+Requesting these from the design team. Need them as 24x24 SVG files.
+
+- `icon-add-course.svg` (a simple plus sign)
+- `icon-remove-course.svg` (a trash can)
+- `icon-lock.svg` (a closed padlock)
+- `icon-unlock.svg` (an open padlock)
+- `icon-warning.svg` (exclamation mark in a triangle)
+- `icon-info.svg` (letter 'i' in a circle)
+- `icon-refresh.svg` (for re-running the auto-scheduler)
+- `icon-filter.svg`
+- `icon-calendar.svg`
+- `icon-user.svg` (for profile/preferences)
+- `icon-drag-handle.svg` (maybe a 6-dot grid pattern)
